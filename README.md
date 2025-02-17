@@ -1,7 +1,9 @@
 # DiscreteFourierTransform
 
-Programa de C# con Windows Form Aplication que calcula la Transformada Discreta de Fourier de un dibujo y muestra los epiciclos que lo representan.
+### Programa de C# con Windows Form Aplication que calcula la Transformada Discreta de Fourier y sus Coheficientes de un dibujo y muestra los epiciclos que lo representan.
 
+
+---
 
 
 <p align="center">
