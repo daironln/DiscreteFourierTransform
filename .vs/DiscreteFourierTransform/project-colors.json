@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2be830be-e556-45e9-a8b9-6c51420a4566": {
+      "ProjectGuid": "2be830be-e556-45e9-a8b9-6c51420a4566",
+      "DisplayName": "DiscreteFourierTransform",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
